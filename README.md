@@ -8,8 +8,9 @@ This project is a simple login page built using HTML5, CSS3, and JavaScript, int
    git clone https://github.com/Patilayush20/Awak_Front-end_Assignment/tree/master
 
 2. Navigate to the project folder:
-   cd 
-3. Open the index.html file in your browser:
+   cd Awak_Front-end_Assignment
+   
+4. Open the index.html file in your browser:
    open index.html
 
    Alternatively, drag and drop the index.html file into your browser.
